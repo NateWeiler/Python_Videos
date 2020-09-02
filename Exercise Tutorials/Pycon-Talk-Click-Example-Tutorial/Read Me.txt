@@ -1,0 +1,6 @@
+pycon-talk-click-example
+#############################
+
+
+.. image:: https://travis-ci.org/elbaschid/pycon-talk-click-example.svg?branch=master
+   :target: https://travis-ci.org/elbaschid/pycon-talk-click-example

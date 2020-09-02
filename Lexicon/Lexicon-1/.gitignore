@@ -1,0 +1,7 @@
+*.pyc
+*.tox
+*.egg-info
+.git
+.github
+.DS_Store
+debug.log
